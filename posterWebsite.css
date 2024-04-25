@@ -1,0 +1,47 @@
+body {
+    font-family: Comic Sans MS;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    font-size: 2.5rem;
+    color: #00C2CB;
+}
+h2 {
+    color: #CB6CE6;
+    text-align: center;
+}
+main {
+    padding: 50px 50px 0 50px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+.course-info p {
+    line-height: 1.5;
+}
+button{
+    background-color: #00C2CB;
+    color: white;
+    text-align: center;
+    border: 0px;
+    padding: 8px;
+    font-weight: bold;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+}
+footer p{
+    height: 50px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
